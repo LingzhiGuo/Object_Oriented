@@ -7,3 +7,6 @@ class SendMessage:
 # 根据类创建对象
 obj = SendMessage()
 obj.send("glz@163.com","hello")
+
+
+"""已修改"""
